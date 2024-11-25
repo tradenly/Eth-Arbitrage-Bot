@@ -172,5 +172,4 @@ Be sure to check their documentation for latest updates regarding their contract
 
 - If testing out the *manipulate.js* script, you'll also want to update the **UNLOCKED_ACCOUNT** variable and adjust **AMOUNT** as needed.
 
-for additional help join our telegram group @tradenly#   E t h - A r b i t r a g e - B o t  
- 
+for additional help join our telegram group @tradenly
